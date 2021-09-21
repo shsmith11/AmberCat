@@ -1,11 +1,10 @@
-package com.blockchain.ui;
+package com.AmberCat.ui;
 
-import com.blockchain.data.Locators;
-import com.blockchain.api.APIblockchain;
+import com.AmberCat.data.Locators;
+import com.AmberCat.api.APIblockchain;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class ExplorerPage extends BasePage{
 

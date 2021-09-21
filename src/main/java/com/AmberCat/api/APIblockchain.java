@@ -1,11 +1,10 @@
-package com.blockchain.api;
+package com.AmberCat.api;
 
 import io.restassured.http.ContentType;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 
 import models.Ticker;
-import models.Tickers;
 
 
 import static io.restassured.RestAssured.given;

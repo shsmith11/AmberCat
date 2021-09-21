@@ -1,14 +1,11 @@
-package com.blockchain.ui;
+package com.AmberCat.ui;
 
-import com.blockchain.data.PagesLinks;
-import com.blockchain.data.PagesNames;
+import com.AmberCat.data.PagesLinks;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import java.io.IOException;
 
-
-public class HomeTest extends com.blockchain.ui.BaseTest {
+public class HomeTest extends com.AmberCat.ui.BaseTest {
 
     public static final boolean testCase1 = true;
     public static final boolean testCase2 = true;

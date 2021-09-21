@@ -1,4 +1,4 @@
-package com.blockchain.data;
+package com.AmberCat.data;
 import java.util.HashMap;
 
 final public class PagesLinks {

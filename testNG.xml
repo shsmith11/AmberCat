@@ -18,8 +18,8 @@
             </run>
         </groups>
         <classes>
-            <class name="com.blockchain.ui.HomeTest"/>
-            <class name="com.blockchain.ui.ExplorerTest"/>
+            <class name="com.AmberCat.ui.HomeTest"/>
+            <class name="com.AmberCat.ui.ExplorerTest"/>
         </classes>
     </test>
     <test name="API Tests" enabled="false">
@@ -30,7 +30,7 @@
             </run>
         </groups>
         <classes>
-            <class name="com.blockchain.api.APITestBlockchain"/>
+            <class name="com.AmberCat.api.APITestBlockchain"/>
 
         </classes>
     </test>

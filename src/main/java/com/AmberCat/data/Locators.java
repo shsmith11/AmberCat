@@ -1,8 +1,4 @@
-package com.blockchain.data;
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
+package com.AmberCat.data;
 
 final public class Locators {
     // MAIN PAGE LOCATORS

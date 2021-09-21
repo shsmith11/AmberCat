@@ -1,13 +1,10 @@
-package com.blockchain.api;
+package com.AmberCat.api;
 
 import io.restassured.path.json.JsonPath;
-import models.Tickers;
 import org.testng.Assert;
 import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
-
-import java.util.List;
 
 public class APITestBlockchain {
     @Parameters({"symbol"})

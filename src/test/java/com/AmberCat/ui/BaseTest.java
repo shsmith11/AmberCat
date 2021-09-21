@@ -1,4 +1,4 @@
-package com.blockchain.ui;
+package com.AmberCat.ui;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

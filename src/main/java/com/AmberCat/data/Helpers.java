@@ -1,5 +1,5 @@
-package com.blockchain.data;
-import com.blockchain.ui.BasePage;
+package com.AmberCat.data;
+import com.AmberCat.ui.BasePage;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.*;
