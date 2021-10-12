@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="com.AmberCat" />
         <module name="AmberCat" />
+        <module name="blockchain" />
       </profile>
     </annotationProcessing>
   </component>
